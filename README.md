@@ -1,16 +1,22 @@
-### Hi there 👋
+### Hey, I'm Sefa 👋
 
-<!--
-**sefaelbir/sefaelbir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a developer based in Turkey. I enjoy learning some useful and interesting products, my interests are games, technology and creative coding.
 
-Here are some ideas to get you started:
+[My personal website &rarr;](https://elbir.me)<br />
+[@sefael1 on Twitter &rarr;](https://twitter.com/sefael1)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### Open source work
+
+Small just-for-fun weekend open source projects/works I've been working on.
+
+[Note2.online](https://note2.online)<br />
+With Note2Online, you can keep your notes safely without logging. Best solution for simple and fast note taking and it's free.
+
+[🎧 Discord Music Bot](https://github.com/sefaelbir/Discord-Music-Bot)<br />
+You can listen to songs and podcasts with this simple discord bot.
+
+
+### Writing
+
+I like to think out loud and write about code, design, and a bit of my thoughts.
