@@ -10,7 +10,7 @@ I'm a developer based in Turkey. I enjoy learning some useful and interesting pr
 
 Small just-for-fun weekend open source projects/works I've been working on.
 
-[Note2.online](https://note2.online)<br />
+[📝Note2.online](https://note2.online)<br />
 With Note2Online, you can keep your notes safely without logging. Best solution for simple and fast note taking and it's free.
 
 [🎧 Discord Music Bot](https://github.com/sefaelbir/Discord-Music-Bot)<br />
