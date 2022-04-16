@@ -13,6 +13,9 @@ Small just-for-fun weekend open source projects/works I've been working on.
 [📝 Note2.online](https://note2.online)<br />
 With Note2Online, you can keep your notes safely without logging. Best solution for simple and fast note taking and it's free.
 
+[🐊 Langecko](https://github.com/sefaelbir/langecko)<br />
+Langecko - Learn with random words english to turkish language
+
 [🎧 Discord Music Bot](https://github.com/sefaelbir/Discord-Music-Bot)<br />
 You can listen to songs and podcasts with this simple discord bot.
 
