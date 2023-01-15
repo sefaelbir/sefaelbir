@@ -2,7 +2,6 @@
 
 I'm a developer based in Turkey. I enjoy learning some useful and interesting products, my interests are games, technology and creative coding.
 
-[My personal website &rarr;](https://elbir.me)<br />
 [@sefael1 on Twitter &rarr;](https://twitter.com/sefael1)
 
 
