@@ -1,4 +1,4 @@
-### Hey, I'm Sefa 👋
+### Hey, I'm Sefa
 
 I'm a developer based in Turkey. I enjoy learning some useful and interesting products, my interests are games, technology and creative coding.
 
