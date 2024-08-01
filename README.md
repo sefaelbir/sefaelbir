@@ -9,7 +9,7 @@ I'm a developer based in Istanbul, Turkey. Working for Argos Group of Companies 
 
 Small just-for-fun weekend open source projects/works I've been working on.
 
-[📝 Note2.online](https://note2.online)<br />
+[📝 Note2.online]([https://note2.online](https://github.com/sefaelbir/note2.github.io))<br />
 With Note2Online, you can keep your notes safely without logging. Best solution for simple and fast note taking and it's free.
 
 [🐊 Langecko](https://github.com/sefaelbir/langecko)<br />
