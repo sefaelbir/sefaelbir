@@ -17,8 +17,3 @@ Langecko - Learn with random words english to turkish language
 
 [🎧 Discord Music Bot](https://github.com/sefaelbir/Discord-Music-Bot)<br />
 You can listen to songs and podcasts with this simple discord bot.
-
-
-### Writing
-
-I like to think out loud and write about code, design, and a bit of my thoughts.
